@@ -1,3 +1,20 @@
+# 1.0.0 (2026-06-30)
+
+
+### Bug Fixes
+
+* examples now use root module with source = ../../ ([8abb3f1](https://github.com/karan-cd/terraform-hcloud-compute/commit/8abb3f125b1927776ac06d6938a8268b3759357e))
+* make terraform tests pass in CI ([1eb33fe](https://github.com/karan-cd/terraform-hcloud-compute/commit/1eb33fe06e8228e60d2cc325f73abc8c9175f639))
+* remove unused variables from examples ([07750e7](https://github.com/karan-cd/terraform-hcloud-compute/commit/07750e75304fbf763dbc9f065bdd61d219a7a774))
+
+
+### Features
+
+* add pre-commit, semantic-release, and improve examples ([062e365](https://github.com/karan-cd/terraform-hcloud-compute/commit/062e365494a97f3276b4189dd505621c62be2980))
+* add validations, richer outputs, docs, examples and tests ([f680da6](https://github.com/karan-cd/terraform-hcloud-compute/commit/f680da6500344a7d99bd231cebd9cff819275578))
+* added the workflow yml ([ae84e8b](https://github.com/karan-cd/terraform-hcloud-compute/commit/ae84e8bd358ef5cf763b22a35aced909fbfd1736))
+* initial terraform-hcloud-compute module with server, volume, ssh-key, placement-group, snapshot submodules ([982acb1](https://github.com/karan-cd/terraform-hcloud-compute/commit/982acb1caab4de12e68a18592fb1237ebadd6421))
+
 ## [0.3.1](https://github.com/terraform-hc-modules/terraform-hcloud-compute/compare/v0.3.0...v0.3.1) (2026-04-20)
 
 
